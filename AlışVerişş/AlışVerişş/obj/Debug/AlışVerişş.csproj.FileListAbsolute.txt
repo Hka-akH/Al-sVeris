@@ -1,0 +1,7 @@
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\bin\Debug\AlışVerişş.exe.config
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\bin\Debug\AlışVerişş.exe
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\bin\Debug\AlışVerişş.pdb
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\obj\Debug\AlışVerişş.csproj.AssemblyReference.cache
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\obj\Debug\AlışVerişş.csproj.CoreCompileInputs.cache
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\obj\Debug\AlışVerişş.exe
+C:\Users\HK\source\repos\AlışVerişş\AlışVerişş\obj\Debug\AlışVerişş.pdb
